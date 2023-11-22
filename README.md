@@ -1,2 +1,2 @@
 # loto
-Popularna igra na sreću Loto 7/39.
+Simulacija popularne igre na sreću Loto 7/39.
